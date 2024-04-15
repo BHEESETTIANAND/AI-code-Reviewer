@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set your API key
-openai.api_key = "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"
+openai.api_key = ["enter your api key"]
 
 def main():
     st.title("GenAI App - AI Code Reviewer")
